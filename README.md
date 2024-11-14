@@ -1,0 +1,1 @@
+This 'Drawing app' was part of my evaluation in 'Technical University'. It is about drawing figures and line, and you can manipulate them. There is also an option to save and load files, using JSON. There is also a LINQ in the app, that does simple tasks like telling which is the most used figure.
